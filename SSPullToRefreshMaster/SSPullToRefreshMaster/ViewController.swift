@@ -16,7 +16,7 @@ class ViewController: UITableViewController {
         refreshControl?.addTarget(self, action: #selector(handleRefresh), for: .valueChanged)
     }
     
-    func handleRefresh() {
+    @objc func handleRefresh() {
         refreshControl?.beginRefreshing()
         
         delay(5) { 

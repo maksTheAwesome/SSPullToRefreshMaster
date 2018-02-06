@@ -49,6 +49,7 @@
                                                     </subviews>
                                                     <color key="backgroundColor" red="0.99215686270000003" green="0.51764705879999995" blue="0.53333333329999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <constraints>
+                                                        <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="0af-C9-WA8" secondAttribute="trailing" constant="20" symbolic="YES" id="FFE-QI-n0f"/>
                                                         <constraint firstItem="0af-C9-WA8" firstAttribute="leading" secondItem="TVR-Kj-yrk" secondAttribute="leading" constant="12" id="MQj-2M-NmH"/>
                                                         <constraint firstAttribute="centerY" secondItem="0af-C9-WA8" secondAttribute="centerY" id="P6X-7Z-Pcl"/>
                                                         <constraint firstItem="0af-C9-WA8" firstAttribute="leading" secondItem="TVR-Kj-yrk" secondAttribute="leading" constant="100" id="UUA-Tr-oQc"/>
@@ -93,8 +94,9 @@
                                                     </subviews>
                                                     <color key="backgroundColor" red="0.98431372549999996" green="0.71764705880000002" blue="0.16862745100000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <constraints>
+                                                        <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="ki5-0W-XA9" secondAttribute="trailing" constant="20" symbolic="YES" id="Anp-NB-19u"/>
                                                         <constraint firstItem="ki5-0W-XA9" firstAttribute="leading" secondItem="eQr-Ii-1WN" secondAttribute="leading" constant="12" id="JA0-Ge-QWK"/>
-                                                        <constraint firstAttribute="centerY" secondItem="ki5-0W-XA9" secondAttribute="centerY" constant="-0.5" id="eIV-Xn-mSM"/>
+                                                        <constraint firstAttribute="centerY" secondItem="ki5-0W-XA9" secondAttribute="centerY" id="eIV-Xn-mSM"/>
                                                         <constraint firstItem="ki5-0W-XA9" firstAttribute="leading" secondItem="eQr-Ii-1WN" secondAttribute="leading" constant="100" id="lsy-Ao-cFa"/>
                                                     </constraints>
                                                     <userDefinedRuntimeAttributes>
@@ -140,6 +142,7 @@
                                                         <constraint firstItem="sI2-6K-KKk" firstAttribute="leading" secondItem="Jsc-7a-PAg" secondAttribute="leading" constant="12" id="99t-qA-LJl"/>
                                                         <constraint firstAttribute="centerY" secondItem="sI2-6K-KKk" secondAttribute="centerY" id="VFz-v8-syY"/>
                                                         <constraint firstItem="sI2-6K-KKk" firstAttribute="leading" secondItem="Jsc-7a-PAg" secondAttribute="leading" constant="100" id="Vfb-4c-Qp5"/>
+                                                        <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="sI2-6K-KKk" secondAttribute="trailing" constant="20" symbolic="YES" id="s4S-FF-dOn"/>
                                                     </constraints>
                                                     <userDefinedRuntimeAttributes>
                                                         <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">

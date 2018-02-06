@@ -88,7 +88,7 @@ class SSPullToRefreshView: UIRefreshControl {
     
     override func endRefreshing() {
         //In cases when refresh finished really fast animation does not look good. Just add a second for the animation to show up.
-        delay(minimumRefreshTime) {[weak self] (_) in
+        delay(minimumRefreshTime) {[weak self] in
             guard let strongSelf = self, strongSelf.isRefreshing else {return}
             strongSelf.superEndRefreshing()
             strongSelf.stopAnimation()
