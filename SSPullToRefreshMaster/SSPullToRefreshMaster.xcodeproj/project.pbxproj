@@ -146,7 +146,7 @@
 				TargetAttributes = {
 					5091F9F2200C0CCD00A2D0DE = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = XEP5V36HJZ;
+						DevelopmentTeam = J44MXYX939;
 						LastSwiftMigration = 1010;
 						ProvisioningStyle = Automatic;
 					};
@@ -336,10 +336,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = XEP5V36HJZ;
+				DEVELOPMENT_TEAM = J44MXYX939;
 				INFOPLIST_FILE = SSPullToRefreshMaster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.FleetWit.FWPullToRefresh;
+				PRODUCT_BUNDLE_IDENTIFIER = com.easyappsnyc.SSPullToRefreshMaster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
@@ -349,10 +349,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = XEP5V36HJZ;
+				DEVELOPMENT_TEAM = J44MXYX939;
 				INFOPLIST_FILE = SSPullToRefreshMaster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.FleetWit.FWPullToRefresh;
+				PRODUCT_BUNDLE_IDENTIFIER = com.easyappsnyc.SSPullToRefreshMaster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
