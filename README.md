@@ -16,10 +16,10 @@ iOS 10.3 Swift 4.2
 
 ## Installation
 
-####[CocoaPods](http://cocoapods.org)
+###[CocoaPods](http://cocoapods.org)
 Coming soon.
 
-####Manual Installation
+###Manual Installation
 
 You are welcome to see the sample of the project for fully operating sample in the SSPullToRefreshMaster folder.
 
