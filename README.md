@@ -1,7 +1,7 @@
 # SSPullToRefreshMaster.swift
 Super simple pull to refresh custom animation
 
-![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2018249/draft_06.gif)
+![Preview](http://easyappsnyc.com/wp-content/uploads/2018/11/SSPullToRefreshExample.gif)
 
 Simple Pull to refresh animation
 
