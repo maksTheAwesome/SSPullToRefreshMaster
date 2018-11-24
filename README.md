@@ -3,10 +3,6 @@ Super simple pull to refresh custom animation
 
 ![Preview](http://easyappsnyc.com/wp-content/uploads/2018/11/SSPullToRefreshExample.gif)
 
-Made by Max at (http://easyappsnyc.com/)](http://easyappsnyc.com/)
-
-Also, read how it was done in our [blog](http://yalantis.com/blog/how-we-created-guillotine-menu-animation/)
-
 
 ## Requirements
 iOS 10.3 Swift 4.2
