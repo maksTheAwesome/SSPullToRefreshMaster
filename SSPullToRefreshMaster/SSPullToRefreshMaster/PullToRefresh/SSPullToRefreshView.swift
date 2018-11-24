@@ -19,7 +19,7 @@ class SSPullToRefreshView: UIRefreshControl {
     override var isHidden: Bool {
         didSet {
             if !isHidden {
-                superview?.sendSubview(toBack: self)
+                superview?.sendSubviewToBack(self)
             }
         }
     }
@@ -47,7 +47,7 @@ class SSPullToRefreshView: UIRefreshControl {
     
     override func didMoveToWindow() {
         if self.window != nil {
-            self.superview?.sendSubview(toBack: self)
+            self.superview?.sendSubviewToBack(self)
         }
     }
     
